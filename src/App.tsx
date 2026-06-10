@@ -46,7 +46,7 @@ function App() {
             <CheckCircle2 size={16} aria-hidden="true" />
             Ready for desktop development
           </span>
-          <h1 id="app-title">Tauri-template</h1>
+          <h1 id="app-title">{{displayName}}</h1>
           <p>
             A clean React, TypeScript, Vite, and Tauri v2 starter extracted from a
             working desktop app.

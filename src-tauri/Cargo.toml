@@ -1,12 +1,12 @@
 [package]
-name = "tauri-template"
+name = "{{kebabName}}"
 version = "0.1.0"
 description = "A Tauri desktop app template"
 authors = ["you"]
 edition = "2021"
 
 [lib]
-name = "tauri_template_lib"
+name = "{{snakeName}}_lib"
 crate-type = ["staticlib", "cdylib", "rlib"]
 
 [build-dependencies]

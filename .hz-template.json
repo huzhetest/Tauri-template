@@ -1,0 +1,11 @@
+{
+  "transformer": "placeholder",
+  "variables": [
+    "kebabName",
+    "displayName",
+    "snakeName",
+    "identifier",
+    "author",
+    "name"
+  ]
+}

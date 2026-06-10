@@ -1,4 +1,4 @@
-# Build Tauri-template Windows portable app and package it as a zip.
+# Build {{displayName}} Windows portable app and package it as a zip.
 # Prerequisites: Node.js, Rust stable, Visual Studio C++ build tools, and WebView2 runtime.
 
 $ErrorActionPreference = "Stop"
